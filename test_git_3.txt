@@ -1,2 +1,4 @@
 18/11/2015
 test commit
+
+$ git config --glabal user.name
