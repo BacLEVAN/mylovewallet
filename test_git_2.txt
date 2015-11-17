@@ -1,3 +1,4 @@
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 17/11/2015
 thay đổi tên và email của Git
+chưa thay đổi thành công.
