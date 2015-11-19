@@ -1,0 +1,4 @@
+19/11/2015
+thực hiện trên các branch1
+
+$ git config --glabal user.name
